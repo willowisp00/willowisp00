@@ -1,6 +1,6 @@
 Hi! I'm Crystal (Preferred name is WIll) and my pronouns are they/them!
 
-______
+_______
 
 I am currently learning css, javascript, and python in hopes to apply it to projects or future jobs I might have!
 
